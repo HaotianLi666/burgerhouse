@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/burgerhouse/static/js/main.92d79bdf.js",
+    "index.html": "/burgerhouse/index.html",
+    "main.92d79bdf.js.map": "/burgerhouse/static/js/main.92d79bdf.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.92d79bdf.js"
+  ]
+}
