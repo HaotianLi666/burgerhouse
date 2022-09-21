@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/burgerhouse/static/css/main.a56d3d4f.css",
-    "main.js": "/burgerhouse/static/js/main.e28bdbb5.js",
+    "main.js": "/burgerhouse/static/js/main.abc1a495.js",
     "static/media/bag.png": "/burgerhouse/static/media/bag.c0b20df765f996bcc635.png",
     "index.html": "/burgerhouse/index.html",
     "main.a56d3d4f.css.map": "/burgerhouse/static/css/main.a56d3d4f.css.map",
-    "main.e28bdbb5.js.map": "/burgerhouse/static/js/main.e28bdbb5.js.map"
+    "main.abc1a495.js.map": "/burgerhouse/static/js/main.abc1a495.js.map"
   },
   "entrypoints": [
     "static/css/main.a56d3d4f.css",
-    "static/js/main.e28bdbb5.js"
+    "static/js/main.abc1a495.js"
   ]
 }
